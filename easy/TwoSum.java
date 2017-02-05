@@ -4,6 +4,8 @@ import java.util.*;
 
 /**
  * Created by viseator on 2/5/17.
+ * Wu Di
+ * viseator@gmail.com
  */
 public class TwoSum {
     public static void main(String[] args) {
@@ -30,8 +32,10 @@ public class TwoSum {
             }
             map.put(nums[i], i);
         }
+
+
         return null;
-
     }
-
 }
+
+
